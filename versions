@@ -1,3 +1,13 @@
-{
-
-}
+[{
+"projectName": "Personalia",
+"kitbirdVersion": "1.14.0"
+}, {
+"projectName": "Golden Operations",
+"kitbirdVersion": "1.14.0"
+}, {
+"projectName": "SM Component",
+"kitbirdVersion": "1.14.0"
+}, {
+"projectName": "Big Bird",
+"kitbirdVersion": "1.14.0"
+}]
